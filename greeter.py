@@ -1,7 +1,10 @@
 greets = ["hi",
           "hello",
           "howdy",
-          "good day"
+          "good day",
+          "bonjour",
+          "hola",
+          "nihao"
           ]
 
 for greeting in greets:
