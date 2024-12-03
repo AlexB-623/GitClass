@@ -1,7 +1,8 @@
 greets = ["hi",
           "hello",
           "howdy",
-          "good day"]
+          "good day",
+          "bonjour"]
 
 for greeting in greets:
-    print(greeting)
+    print(f"{greeting}!")
