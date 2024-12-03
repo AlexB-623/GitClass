@@ -5,4 +5,4 @@ greets = ["hi",
           ]
 
 for greeting in greets:
-    print(f"{greeting}!")
+    print(f"{greeting}")
