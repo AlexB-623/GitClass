@@ -2,7 +2,7 @@ greets = ["hi",
           "hello",
           "howdy",
           "good day",
-          "bonjour"]
+          "nihao"]
 
 for greeting in greets:
     print(f"{greeting}!")
